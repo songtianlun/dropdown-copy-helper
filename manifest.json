@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Dropdown Copy Helper / 下拉复制助手",
   "version": "1.0.0",
-  "description": "A Chrome extension to copy all dropdown options from input fields on supported websites like Google and YouTube. 一个Chrome插件，用于从Google和YouTube等支持的网站的输入框下拉选项中复制所有内容。",
+  "description": "A Chrome extension to copy all dropdown options from input fields on supported websites like Google and YouTube. 从支持网站的下拉选项中复制所有内容。",
   "permissions": [
     "contextMenus",
     "activeTab",
